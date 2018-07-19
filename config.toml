@@ -26,7 +26,7 @@ paginate = 10
 disqusShortname = "kuonumber"
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = ""
+googleAnalytics = "UA-122593227-1"
 
 # Default language to use (if you setup multilingual support)
 defaultContentLanguage = "en"
