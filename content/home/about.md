@@ -10,7 +10,8 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
+    "Deep larning",
+    "Machine learning",
     "Python",
   ]
 
@@ -18,8 +19,12 @@ weight = 5
 [[education.courses]]
   course = " International Marketing"
   institution = "Sheffield Hallam University"
-  year = 2016
-
+  year = 2014
+  
+[[education.courses]]
+  course = " Social and Policy Sciences "
+  institution = "Yuan Ze University"
+  year = 2012
  
 +++
 
